@@ -44,8 +44,8 @@ Install the dependencies using:
 bashCopy code
 pip install -r requirements.txt 
 How to Run
-1.	Mount Google Drive using the provided Colab code.
-2.	Execute the Streamlit app: streamlit run streamlit_app.py
+Mount Google Drive using the provided Colab code.
+Execute the Streamlit app: streamlit run streamlit_app.py
 Enter a movie review in the app, click "Predict," and view the sentiment prediction.
 Authors
 [Glenn Bartels Odoom]
